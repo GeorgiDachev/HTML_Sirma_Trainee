@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Table</title>
+</head>
+<body>
+    <table>
+      <h1>Table</h1>
+        <tr>
+            <th>Students</th>
+            <th>Point</th>
+            <th>Grade</th>
+        </tr>
+        <tr>
+            <th>Peter</th>
+            <td>100</td>
+            <td>6.00</td>
+        </tr>
+        <tr>
+            <th>George</th>
+            <td>50</td>
+            <td>3.00</td>
+        </tr>
+        <tr>
+            <th>Maria</th>
+            <td>75</td>
+            <td>4.50</td>
+        </tr>
+    </table>
+</body>
+</html>

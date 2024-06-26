@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form</title>
+</head>
+<body>
+    <form>
+        <div>
+            <label for="email">Email:</label>
+            <input type="text" id="email" name="email">
+        </div>
+        <div>
+            <label for="subscribe">Checkbox</label>
+            <input type="checkbox" id="subscribe" name="subscribe">
+        </div>
+        <button type="submit">Submit</button>
+    </form>
+</body>
+</html>
